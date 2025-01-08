@@ -6,7 +6,7 @@
   title.episode.tsv.gz
   title.principals.tsv.gz
   title.ratings.tsv.gz
-  
+ 00.TEEEEEST 
 02_Code_appli_syst_recommandations.py :                  code permettant de faire fonctionner le streamlit
 
 02bis_Code_recherche_simlilarité_avec_comments.ipynb :   code annoté du fonctionnement du ML 
